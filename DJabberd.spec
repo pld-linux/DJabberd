@@ -13,9 +13,9 @@ Release:	0.4
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/DJabberd/%{pdir}-%{version}.tar.gz
+# Source0-md5:	ce449b6ef429eb65ec03be4c8d19b1aa
 Source1:	djabberd.conf
 Source2:	djabberd-log.conf
-# Source0-md5:	ce449b6ef429eb65ec03be4c8d19b1aa
 URL:		http://search.cpan.org/dist/DJabberd/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
