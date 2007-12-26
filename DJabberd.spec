@@ -12,7 +12,7 @@ Release:	0.4
 # same as perl 
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
-Source0:	http://www.cpan.org/modules/by-module/DJabberd/%{pdir}-%{version}.tar.gz
+Source0:	http://www.cpan.org/modules/by-authors/id/B/BR/BRADFITZ/%{pdir}-%{version}.tar.gz
 # Source0-md5:	ce449b6ef429eb65ec03be4c8d19b1aa
 Source1:	djabberd.conf
 Source2:	djabberd-log.conf
