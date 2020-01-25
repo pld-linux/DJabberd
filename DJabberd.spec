@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests		# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	DJabberd
 Summary:	DJabberd - scalable, extensible Jabber/XMPP server
 Summary(pl.UTF-8):	DJabberd - skalowalny, rozszerzalny serwer Jabbera/XMPP
